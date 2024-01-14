@@ -1,5 +1,7 @@
 # DETR (DEtection TRansformer) Object Detection
 
+![DETR](./images/cattle-detection-1.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
